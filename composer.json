@@ -1,0 +1,19 @@
+{
+    "name": "digitive/socialite-provider-vipps",
+    "description": "Vipps OAuth2 Provider for Laravel Socialite",
+    "license": "MIT",
+    "authors": [{
+        "name": "Digitive AS",
+        "email": "christoffer@digitive.no"
+    }],
+    "require": {
+        "php": "^7.3",
+        "ext-json": "*",
+        "socialiteproviders/manager": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SocialiteProviders\\Vipps\\": ""
+        }
+    }
+}
