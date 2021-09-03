@@ -1,5 +1,5 @@
 {
-    "name": "digitive/socialite-provider-vipps",
+    "name": "digitive/vipps-socialite-provider",
     "description": "Vipps OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
