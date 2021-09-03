@@ -38,7 +38,7 @@ protected $listen = [
 ```
 ## 4. Configuration setup
 
-You will need to add an entry to the services configuration file so that after config files are cached for usage in production environment (Laravel command `artisan config:cache`) all config is still available.
+You will need to add vipps to the services configuration file so that after config files are cached for usage in production environment (Laravel command `artisan config:cache`) all config is still available.
 
 #### Add to `config/services.php`.
 
