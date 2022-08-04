@@ -18,7 +18,6 @@ class Provider extends AbstractProvider
      */
     protected $scopes = [
         'openid',
-        'api_version_2',
         'phoneNumber',
     ];
 
